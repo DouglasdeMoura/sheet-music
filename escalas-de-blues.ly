@@ -6,17 +6,17 @@ pentablues = \relative c' { c8 ees f fis g bes c bes | g fis f ees c2 \bar "||" 
 
 \score {
   \new Staff {
-    \transpose c c { \pentablues }
+    \transpose c c   { \pentablues }
     \transpose c des { \pentablues }
-    \transpose c d { \pentablues }
+    \transpose c d   { \pentablues }
     \transpose c ees { \pentablues }
-    \transpose c f { \pentablues }
+    \transpose c f   { \pentablues }
     \transpose c fis { \pentablues }
-    \transpose c g { \pentablues }
+    \transpose c g   { \pentablues }
     \transpose c aes { \pentablues }
-    \transpose c a { \pentablues }
+    \transpose c a   { \pentablues }
     \transpose c bes { \pentablues }
-    \transpose c b { \pentablues }
+    \transpose c b   { \pentablues }
   }
 
  \layout {

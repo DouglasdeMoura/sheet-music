@@ -1,5 +1,6 @@
 \header {
-  %title = "Escalas de Blues"
+  title = ""
+  tagline = "Escalas de Blues"
 }
 
 pentablues = \repeat volta 2 { \relative c' { c8 ees f fis g bes c bes | g fis f ees c2 } }
